@@ -1,0 +1,26 @@
+# Core
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+
+# Frontier model (Groq — fast, free tier, OpenAI-compatible)
+groq>=0.11.0
+
+# OSS model
+transformers>=4.45.0
+torch>=2.1.0
+accelerate>=0.30.0
+sentencepiece>=0.2.0
+
+# UI
+gradio>=4.40.0
+
+# Tools
+ddgs>=9.0.0
+sympy>=1.12
+
+# Eval / reporting
+matplotlib>=3.8.0
+rich>=13.7.0
+
+# Tests
+pytest>=8.0.0
