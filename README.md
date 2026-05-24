@@ -2,8 +2,6 @@
 
 A side-by-side comparison of two personal assistants — one built on an open-source model (Qwen2.5-0.5B-Instruct running locally), one on a hosted frontier API (Llama 3.3 70B Versatile via Groq). Both share the same conversation memory, tool use, guardrails, and observability layers, so the only difference under test is the LLM itself.
 
-> Submission for the Ollive AI take-home (May 2026).
-
 ---
 
 ## Quick start
